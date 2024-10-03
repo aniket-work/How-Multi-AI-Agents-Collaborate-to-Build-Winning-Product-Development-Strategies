@@ -1,0 +1,14 @@
+streamlit
+groq
+langchain-openai
+tavily-python
+python-dotenv
+loguru
+openai
+langchain-core
+langchain_community
+langgraph
+duckduckgo-search
+langchain-groq
+groq
+pyyaml

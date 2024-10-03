@@ -1,0 +1,8 @@
+PAGE_TITLE = "Multi Agents Collaborate"
+APP_TITLE = "🤖 Multi Agents Collaborate to Build Winning Product Development Strategies"
+QUERY_PROMPT = "Enter your query:"
+RUN_BUTTON = "Run"
+PROCESSING_MESSAGE = "Processing..."
+SUCCESS_MESSAGE = "Processing completed in {:.2f} seconds."
+ERROR_MESSAGE = "Failed to process the query. Please check the logs for more information."
+WARNING_MESSAGE = "Please enter a query before running."

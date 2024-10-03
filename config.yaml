@@ -1,0 +1,7 @@
+api_key: ${GROQ_API_KEY}
+models:
+  agent1: llama-3.1-8b-instant
+  agent2: mixtral-8x7b-32768
+  agent3: llama-3.2-3b-preview
+  summarizer: llama-3.2-1b-preview
+temperature: 0.7
